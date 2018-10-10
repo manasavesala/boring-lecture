@@ -1,0 +1,14 @@
+h2.intro {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: blanchedalmond;
+
+}
+
+p.intro {
+    color: aquamarine;
+    font-style: italic;
+}
+
+img.intro {
+border-radius: 30%;
+}
