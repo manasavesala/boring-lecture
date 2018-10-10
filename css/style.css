@@ -1,14 +1,14 @@
-h2.intro {
+.intro {
 font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 color: blanchedalmond;
 
 }
 
-p.intro {
+.intro2 {
     color: aquamarine;
     font-style: italic;
 }
 
-img.intro {
+img.intro3 {
 border-radius: 30%;
 }
